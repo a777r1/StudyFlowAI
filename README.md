@@ -3,9 +3,10 @@
 A modern, responsive portfolio website built using an AI website builder and refined with standard front-end technologies. This project demonstrates practical skills in UI design, code customization, version control, and deployment.
 
 ## 🔗 Live Demo
-https://yourusername.github.io/portfolio-website/
+https://a777r1.github.io/StudyFlowAI/
 
 ## 📁 GitHub Repository
+https://github.com/a777r1/StudyFlowAI
 
 
 ## 🛠️ Technologies Used
