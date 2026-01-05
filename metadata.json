@@ -1,0 +1,7 @@
+{
+  "name": "StudyFlow AI",
+  "description": "Your ultimate AI study companion. Explains complex topics, generates flashcards, scans notes, and manages your study sessions with a built-in Pomodoro timer.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
